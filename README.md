@@ -31,6 +31,30 @@ AI 기반 레시피 추천 시스템이 사용자의 보유 식재료와 영양 
 
 ---
 
+## 📱 앱 미리보기
+
+### 로그인 & 홈
+| 로그인 | 홈 - 추천 레시피 & Food News |
+|:---:|:---:|
+| <img src="images/image copy 2.png" width="250"/> | <img src="images/image-1.png" width="250"/> |
+
+### 식재료 마켓플레이스
+| 거래 목록 | 상품 등록 |
+|:---:|:---:|
+| <img src="images/image.png" width="250"/> | <img src="images/image copy.png" width="250"/> |
+
+### 영수증 OCR 스캔
+| 촬영/갤러리 선택 | OCR 분석 중 | OCR 결과 |
+|:---:|:---:|:---:|
+| <img src="images/image copy 6.png" width="220"/> | <img src="images/image copy 4.png" width="220"/> | <img src="images/image copy 5.png" width="220"/> |
+
+### 내 식재료 관리
+| 등록된 식재료 목록 |
+|:---:|
+| <img src="images/image copy 3.png" width="250"/> |
+
+---
+
 ## ✨ 주요 기능
 
 ### 📖 레시피 관리 & AI 추천
