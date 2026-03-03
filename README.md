@@ -125,6 +125,12 @@ https://github.com/user-attachments/assets/9f904291-b1a4-44e2-9150-3172f724f006
 
 ---
 
+## 🏗️ 시스템 아키텍처
+
+![시스템 아키텍처](images/아키텍처.png)
+
+---
+
 ## 📁 프로젝트 구조
 
 ```
