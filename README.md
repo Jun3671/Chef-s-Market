@@ -1,6 +1,6 @@
 # 🍳 Chef's Market (셰프마켓)
 
-> **레시피 공유, 식재료 거래, 공동구매를 한 곳에서!** 요리를 사랑하는 사람들을 위한 커뮤니티 기반 푸드 플랫폼
+> **레시피 공유, 식재료 거래, 공동구매를 한 곳에서!** 자취생과 1인 가구를 위한 커뮤니티 기반 푸드 플랫폼
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.6-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -25,9 +25,9 @@
 
 ## 🌟 소개
 
-**Chef's Market**은 요리 애호가들을 위한 종합 커뮤니티 플랫폼입니다. 레시피를 공유하고, 남는 식재료를 이웃과 거래하며, 공동구매를 통해 신선한 재료를 합리적인 가격에 구매할 수 있습니다.
+**Chef's Market**은 자취생과 1인 가구를 위한 종합 커뮤니티 플랫폼입니다. 혼자 사는 생활에서 생기는 식재료 낭비를 줄이고, 남는 식재료를 이웃과 거래하며, 공동구매를 통해 신선한 재료를 합리적인 가격에 구매할 수 있습니다.
 
-AI 기반 레시피 추천 시스템이 사용자의 보유 식재료와 영양 목표에 맞는 최적의 레시피를 제안해 드립니다.
+AI 기반 레시피 추천 시스템이 사용자의 보유 식재료와 영양 목표에 맞는 최적의 레시피를 제안해 소규모 요리에도 균형 잡힌 식단을 유지할 수 있도록 도와드립니다.
 
 ---
 
